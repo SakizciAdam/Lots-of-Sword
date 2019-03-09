@@ -1,0 +1,7 @@
+author = SakizciAdam
+version = 1.0
+displayName = Lots of Sword
+homepage = https://sakizciadam-terraria-mods.blogspot.com/2019/03/sakizciadam-lots-of-swords.html
+hideCode = true
+includeSource = true
+
